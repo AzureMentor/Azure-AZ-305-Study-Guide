@@ -18,10 +18,10 @@
 - [Recommend an organizational and hierarchical structure for Azure resources](https://learn.microsoft.com/en-us/azure/governance/management-groups/overview)
 - [Recommend a solution for enforcing and auditing compliance](https://learn.microsoft.com/en-us/azure/governance/policy/overview)
 
-## Design identities and access for applications
-- Recommend solutions to allow applications to access Azure resources
-- Recommend a solution that securely stores passwords and secrets
-- Recommend a solution for integrating applications into Azure Active Directory (Azure AD)
-- Recommend a user consent solution for applications
+## Design Identities and Access for applications
+- [Recommend solutions to allow applications to access Azure resources](https://learn.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview)
+- [Recommend a solution that securely stores passwords and secrets](https://learn.microsoft.com/en-us/azure/key-vault/general/overview)
+- [Recommend a solution for integrating applications into Azure Active Directory (Azure AD)](https://learn.microsoft.com/en-us/azure/active-directory-b2c/overview)
+- [Recommend a user consent solution for applications](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent)
 
 [Return to Table of Contents](README.md)
