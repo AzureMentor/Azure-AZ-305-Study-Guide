@@ -1,9 +1,9 @@
 # AZ-305: Design Identity, Governance, and Monitoring Solutions (25–30%)
 
-## Design a solution for logging and monitoring
-- Design a log routing solution
-- Recommend an appropriate level of logging
-- Recommend monitoring tools for a solution
+## Design a solution for Logging and Monitoring
+- [Design a log routing solution](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings)
+- [Recommend an appropriate level of logging](https://learn.microsoft.com/en-us/azure/security/fundamentals/log-audit)
+- [Recommend monitoring tools for a solution](https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring)
 
 ## Design authentication and authorization solutions
 - Recommend a solution for securing resources with role-based access control
