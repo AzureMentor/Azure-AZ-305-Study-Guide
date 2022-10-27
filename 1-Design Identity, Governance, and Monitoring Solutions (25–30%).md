@@ -14,9 +14,9 @@
     - [What is Identity Protection?](https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection)
     - [Just-In-Time (JIT) VM access](https://learn.microsoft.com/en-us/azure/defender-for-cloud/just-in-time-access-usage)
 
-## Design governance
-- Recommend an organizational and hierarchical structure for Azure resources
-- Recommend a solution for enforcing and auditing compliance
+## Design Governance
+- [Recommend an organizational and hierarchical structure for Azure resources](https://learn.microsoft.com/en-us/azure/governance/management-groups/overview)
+- [Recommend a solution for enforcing and auditing compliance](https://learn.microsoft.com/en-us/azure/governance/policy/overview)
 
 ## Design identities and access for applications
 - Recommend solutions to allow applications to access Azure resources
