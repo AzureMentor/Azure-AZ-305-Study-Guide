@@ -5,10 +5,14 @@
 - [Recommend an appropriate level of logging](https://learn.microsoft.com/en-us/azure/security/fundamentals/log-audit)
 - [Recommend monitoring tools for a solution](https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring)
 
-## Design authentication and authorization solutions
-- Recommend a solution for securing resources with role-based access control
-- Recommend an identity management solution
+## Design Authentication and Authorization solutions
+- [Recommend a solution for securing resources with Role-Based Access Control](https://learn.microsoft.com/en-us/azure/role-based-access-control/overview)
+- [Recommend an Identity Management solution](https://learn.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview)
 - Recommend a solution for securing identities
+    - [What is Azure AD Privileged Identity Management?](https://learn.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-configure)
+    - [What are Azure AD access reviews?](https://learn.microsoft.com/en-us/azure/active-directory/governance/access-reviews-overview)
+    - [What is Identity Protection?](https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection)
+    - [Just-In-Time (JIT) VM access](https://learn.microsoft.com/en-us/azure/defender-for-cloud/just-in-time-access-usage)
 
 ## Design governance
 - Recommend an organizational and hierarchical structure for Azure resources
